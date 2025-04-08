@@ -1,4 +1,4 @@
-# 🦅 RAVN — Food when you need it, where you need it.
+# RAVN — Food when you need it, where you need it.
 
 **RAVN** is a sleek and minimal mobile app built with React Native that helps users discover food spots either *near their current location* (for when you need food right now)  or *along a driving route* (so you don't need to go backwards when your destination is forwards...and you're STARVING). 
 
@@ -6,7 +6,7 @@ The app is powered by the **Google Places API**, with custom filtering, map inte
 
 ---
 
-## 🚀 Features
+## Features
 
 ### Nearby View
 - Discover restaurants near your current location
@@ -33,7 +33,7 @@ The app is powered by the **Google Places API**, with custom filtering, map inte
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
