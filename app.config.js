@@ -7,6 +7,9 @@ export default {
     version: "1.0.0",
     description: "Summon the flavor. Discover food near you or on your route.",
     extra: {
+      eas: {
+        "projectId": "a2125093-8809-4c01-a4c3-a49aa080ade2"
+      },
       "GOOGLE_API_KEY": process.env.GOOGLE_API_KEY
     },
     orientation: "portrait",
