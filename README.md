@@ -44,3 +44,6 @@ The app is powered by the **Google Places API**, with custom filtering, map inte
 - [React Navigation](https://reactnavigation.org/)
 
 
+&copy; 2025 BaileyKH. All rights reserved.
+
+
