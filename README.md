@@ -14,7 +14,7 @@ The app is powered by the **Google Places API**, with custom filtering, map inte
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start; margin-bottom: 20px;">
   <img src="assets/product/near-me.png" width="200" alt="RAVN Near Me" />
-  <img src="assets/product/near-me-filter.png" width="250" alt="RAVN Near Me filtered" />
+  <img src="assets/product/near-me-filter.png" width="200" alt="RAVN Near Me filtered" />
 </div>
 
 - Discover restaurants near your current location
