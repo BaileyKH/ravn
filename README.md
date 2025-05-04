@@ -4,11 +4,19 @@
 
 The app is powered by the **Google Places API**, with custom filtering, map integration, clustering, and clean, dark UI vibes. No accounts, no storage — just straight-up food discovery.
 
+<img src="assets/product/home-screen.png" width="200" alt="RAVN Home Screen"/>
+
 ---
 
 ## Features
 
 ### Nearby View
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start; margin-bottom: 20px;">
+  <img src="assets/product/near-me.png" width="200" alt="RAVN Near Me" />
+  <img src="assets/product/near-me-filter.png" width="250" alt="RAVN Near Me filtered" />
+</div>
+
 - Discover restaurants near your current location
 - Filter by:
   - Whether they're open
@@ -19,6 +27,15 @@ The app is powered by the **Google Places API**, with custom filtering, map inte
 - Taps open native map apps with directions
 
 ### Route View
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start; margin-bottom: 20px;">
+  <img src="assets/product/otw.png" width="200" alt="RAVN On the way" />
+  <img src="assets/product/otw-search.png" width="200" alt="RAVN search on the way" />
+  <img src="assets/product/otw-restaurants.png" width="200" alt="RAVN search on the way results" />
+  <img src="assets/product/otw-filter.png" width="200" alt="RAVN search on the way filter" />
+  <img src="assets/product/otw-pick.png" width="200" alt="RAVN pick restaurant" />
+</div>
+
 - Enter a destination and find restaurants *along the way*
 - Filter by:
   - Type of food (e.g., tacos, ramen, pizza)
